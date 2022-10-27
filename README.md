@@ -1,4 +1,4 @@
-# Research-Project-on-Fertility-Rate
+## Research-Project-on-Fertility-Rate
 
 Hello,
 
@@ -6,8 +6,10 @@ I am a graduate student and a full-time Research Assistant at the Departmnet of 
 
 I independently completed two thesis topic related to fertility rate in Hong Kong
 
-## Financial Incentives
+### Financial Incentives
 
 
 
-## Housing Prices
+### Housing Prices
+
+A by-product of studying the effect of Financial Incentives on fertility rate in the long run.
